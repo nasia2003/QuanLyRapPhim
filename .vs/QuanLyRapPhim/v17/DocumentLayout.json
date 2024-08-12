@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F528B-31CE-4868-9E79-EA69285E0ACB}|Model\\Model.csproj|c:\\users\\nguye\\workplace\\quanlyrapphim\\model\\request\\billrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F528B-31CE-4868-9E79-EA69285E0ACB}|Model\\Model.csproj|solutionrelative:model\\request\\billrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F528B-31CE-4868-9E79-EA69285E0ACB}|Model\\Model.csproj|c:\\users\\nguye\\workplace\\quanlyrapphim\\model\\dto\\choosecombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F528B-31CE-4868-9E79-EA69285E0ACB}|Model\\Model.csproj|solutionrelative:model\\dto\\choosecombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B537ECC0-15AC-4AC6-AC64-58FB946C2617}|API\\API.csproj|c:\\users\\nguye\\workplace\\quanlyrapphim\\api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B537ECC0-15AC-4AC6-AC64-58FB946C2617}|API\\API.csproj|solutionrelative:api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseCombo.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\Model\\Dto\\ChooseCombo.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\ChooseCombo.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\Model\\Dto\\ChooseCombo.cs",
+              "RelativeToolTip": "Model\\Dto\\ChooseCombo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:40:52.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\Model\\Request\\BillRequest.cs",
+              "RelativeDocumentMoniker": "Model\\Request\\BillRequest.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\Model\\Request\\BillRequest.cs",
+              "RelativeToolTip": "Model\\Request\\BillRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:36:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\API\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Workplace\\QuanLyRapPhim\\API\\Controllers\\BillController.cs",
+              "RelativeToolTip": "API\\Controllers\\BillController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:36:02.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
